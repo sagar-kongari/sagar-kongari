@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👦 Introduction
 
-<!--
-**skadoozy/skadoozy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sagar, a data enthusiast with a strong focus in machine-learning and deep-learning.
+I'm dedicated towards growing my knowledge in the world of data-science.
 
-Here are some ideas to get you started:
+Currently, I'm open to oppurtunities in the domain of data science roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗃️ Projects
+
+Here's my [Portfolio]()
+
+## 🧰 Tools
+
+- Database: PostgreSQL, MySQL
+- Python: jupyter notebook, Numpy, Pandas, Seaborn & Matplotlib, Sci-kit learn, Tensorflow, NLP
+- Business Intelligence: Tableau
