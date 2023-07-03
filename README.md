@@ -6,7 +6,7 @@ I'm Sagar, a data enthusiast with a strong focus in machine-learning and deep-le
 
 Here's my [Portfolio]()
 
-## 🧰 Tools
+## 🧰 Tools & Libraries
 
 - Database: PostgreSQL, MySQL
 - Python: jupyter notebook, Numpy, Pandas, Seaborn & Matplotlib, Sci-kit learn, Tensorflow, NLP
