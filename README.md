@@ -4,7 +4,7 @@ I'm Sagar, a data enthusiast with a strong focus in machine-learning and deep-le
 
 ## 🗃️ Projects
 
-Here's my [Portfolio]()
+Here's my [Portfolio](https://github.com/skadoozy/Portfolio#%EF%B8%8F-sagars-portfolio)
 
 ## 🧰 Tools & Libraries
 
