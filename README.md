@@ -12,9 +12,9 @@ Here's my Portfolio. Access all my [PROJECTS](https://github.com/skadoozy/Portfo
 
 ## 🧰 Tools
 - Language: SQL, Python
-- Database: PostgreSQL, MySQL
+- Database: MySQL, PostgreSQL
 - Visualization: Tableau
 - Python tools: VScode, jupyter notebook, Google Colab
 
 ## 📂Libraries
-`numpy  pandas  matplotlib  seaborn  statsmodels  sci-kitlearn  tensorflow  NLTK`
+`numpy`  `pandas`  `matplotlib`  `seaborn`  `statsmodels`  `sci-kitlearn`  `tensorflow`  `NLTK`
