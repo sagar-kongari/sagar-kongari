@@ -1,13 +1,20 @@
 ## 👦 Introduction
+Greetings!✋ I'm Sagar. Data enthusiast with a strong focus in building machine learning and deep learning models.
 
-I'm Sagar, a data enthusiast with a strong focus in machine-learning and deep-learning. I'm dedicated towards growing my knowledge in the world of data-science. Currently, I'm open to opportunities in the domain of data science.
+My expertise lies in:
+- Data querying using SQL
+- Perform EDA in jupyter notebook
+- Build ML and DL models
+- Develop dashboards using Tableau
 
 ## 🗃️ Projects
+Here's my Portfolio. Access all my [PROJECTS](https://github.com/skadoozy/Portfolio/blob/main/README.md)
 
-Here's my [Portfolio](https://github.com/skadoozy/Portfolio#%EF%B8%8F-sagars-portfolio)
-
-## 🧰 Tools & Libraries
-
+## 🧰 Tools
+- Language: SQL, Python
 - Database: PostgreSQL, MySQL
-- Python: jupyter notebook, Numpy, Pandas, Seaborn & Matplotlib, Sci-kit learn, Tensorflow, NLP
-- Business Intelligence: Tableau
+- Visualization: Tableau
+- Python tools: VScode, jupyter notebook, Google Colab
+
+## 📂Libraries
+`numpy  pandas  matplotlib  seaborn  statsmodels  sci-kitlearn  tensorflow  NLTK`
