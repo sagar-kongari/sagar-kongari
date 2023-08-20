@@ -9,7 +9,7 @@ My expertise lies in:
 
 ## 🗃️ Portfolio
 
-### PYTHON
+- ### PYTHON
 | Project | Area of Focus | Description |
 | :---: | :---: | :--- |
 | [**👦Real-time Face Tracker**](https://github.com/sagar-kongari/Object-Detection-Model/blob/main/README.md) | Deep Learning | Built a real-time face tracking model using open-cv and tensorflow |
@@ -20,13 +20,13 @@ My expertise lies in:
 > Also, take a look on my mini-projects [here](https://github.com/sagar-kongari/Practice-Data-Science/blob/main/README.md).
 ***
 
-### SQL
+- ### SQL
 | Project | Status | Description |
 |:---:|:---:|:---|
 | **[🎱 8week SQL Challenge](https://github.com/sagar-kongari/8week-SQL-Challenge)** | Ongoing | Solve Numerous problem statements. Fun & intuitive way to learn and practice SQL. |
 ***
 
-### TABLEAU
+- ### TABLEAU
 | Project | Area of Focus | Description |
 | :---: | :---: | :--- |
 | [**Superstore Sales**](https://public.tableau.com/views/SuperstoreSales_16924556362570/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) | Sales Analytics | A creative visualization of sales data. |
