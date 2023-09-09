@@ -1,11 +1,5 @@
 ## 👦 Introduction
-Greetings!✋ I'm Sagar. Data enthusiast with a strong focus in building machine learning and deep learning models.
-
-My expertise lies in:
-- Data querying using SQL
-- Perform EDA in jupyter notebook
-- Build ML and DL models
-- Develop dashboards using Tableau
+Hey, I am Sagar. My area of knowledge includes statistical analysis, machine learning, deep learning, and natural language processing. My primary goal is to use my analytical skills to turn raw data into meaningful insights that can be used to make informed business decisions. I am proficient in Python and Tableau, which allows me to build data models and create visualizations. Through my passion for learning and my ability to work collaboratively in a team, I am excited to take on new challenges and make impactful contributions in the field of data science.
 
 ## 🗃️ Portfolio
 
@@ -39,4 +33,4 @@ My expertise lies in:
 - Python tools: VScode, jupyter notebook, Google Colab
 
 ## 📂Libraries & Frameworks
-`numpy`  `pandas`  `matplotlib`  `seaborn`  `statsmodels`  `sci-kitlearn`  `tensorflow`  `NLTK`
+`numpy`  `pandas`  `matplotlib`  `seaborn`  `statsmodels`  `sci-kitlearn`  `Keras` `tensorflow`  `NLTK`
